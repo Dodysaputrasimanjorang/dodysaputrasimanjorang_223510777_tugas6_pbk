@@ -122,6 +122,7 @@ export default {
   border: 1px solid #ccc;
   border-radius: 8px;
   font-size: 16px;
+  color: #000;  /* Warna teks hitam */
   transition: border-color 0.3s;
 }
 
@@ -133,7 +134,7 @@ export default {
 
 .button {
   padding: 12px 24px;
-  background: linear-gradient(145deg, #007BFF, #0056b3);
+  background: linear-gradient(145deg, #FF5733, #C70039);  
   color: white;
   border: none;
   border-radius: 6px;
@@ -144,7 +145,7 @@ export default {
 }
 
 .button:hover {
-  background: linear-gradient(145deg, #0056b3, #004080);
+  background: linear-gradient(145deg, #C70039, #900C3F);
   transform: translateY(-3px);
 }
 
@@ -175,7 +176,7 @@ export default {
 }
 
 .delete-button {
-  background: linear-gradient(145deg, #dc3545, #a71d2a);
+  background: linear-gradient(145deg, #FF0000, #B22222);  
   border: none;
   color: white;
   padding: 10px 20px;
@@ -186,7 +187,7 @@ export default {
 }
 
 .delete-button:hover {
-  background: linear-gradient(145deg, #c82333, #891d25);
+  background: linear-gradient(145deg, #B22222, #800000);
   transform: translateY(-3px);
 }
 
@@ -194,7 +195,7 @@ export default {
   display: block;
   width: 100%;
   margin-top: 20px;
-  background: linear-gradient(145deg, #28a745, #1e7e34);
+  background: linear-gradient(145deg, #32CD32, #228B22);  
   color: white;
   border: none;
   padding: 12px 24px;
@@ -206,7 +207,7 @@ export default {
 }
 
 .load-button:hover {
-  background: linear-gradient(145deg, #218838, #1c7430);
+  background: linear-gradient(145deg, #228B22, #006400);
   transform: translateY(-3px);
 }
 </style>
