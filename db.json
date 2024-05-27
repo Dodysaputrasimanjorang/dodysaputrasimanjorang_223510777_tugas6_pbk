@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "Judul 2",
+      "content": "Ini Content 2"
+    },
+    {
+      "id": "3",
+      "title": "Judul 3",
+      "content": "Ini Content 3"
+    },
+    {
+      "id": "d487",
+      "title": "makan",
+      "content": "makanmalam"
+    },
+    {
+      "id": "db14",
+      "title": "makan bang",
+      "content": "lolers"
+    },
+    {
+      "id": "66fb",
+      "title": "makan",
+      "content": "malam"
+    },
+    {
+      "id": "54b3",
+      "title": "",
+      "content": ""
+    }
+  ]
+}
